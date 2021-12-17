@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Main
+comment0.text=\ \r\n\ <h2>Main\ class</h2>\r\n\ <p>The\ main\ method\ is\ the\ entry\ point\ of\ the\ Breakout\ application\ as\ it\ is\ the\ main\ function\ executed\ \r\n\ and\ able\ to\ communicate\ with\ the\ view\ and\ model\ classes\ by\ constructor\ methods</p>\r\n\ @author\ Amol\ Dhaliwal\r\n\ @version\ 1.0\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=window
+comment2.target=void\ start(javafx.stage.Stage)
+numComments=3

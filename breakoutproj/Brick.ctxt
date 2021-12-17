@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Brick
+comment0.text=\r\n\ <h2>Brick\ class</h2>\r\n\ <p>Class\ which\ holds\ variables\ for\ the\ bricks\ which\ can\ affect\ its\ properties\ as\ well\ as\ \r\n\ providing\ methods\ which\ determines\ how\ they\ reacts\ to\ a\ collision.\ All\ methods\ have\r\n\ been\ inherited\ off\ the\ GameObj\ class.</p>\r\n\ @author\ Amol\ Dhaliwal\r\n\ @version\ 1.0\r\n
+comment1.params=x\ y\ w\ h\ c
+comment1.target=Brick(int,\ int,\ int,\ int,\ javafx.scene.paint.Color)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Brick\r\n
+numComments=2
